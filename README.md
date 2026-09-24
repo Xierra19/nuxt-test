@@ -19,6 +19,7 @@ The application is deployed and can be tested directly via StackBlitz:
 
 ## 🔐 Business Process & System Flow
 To ensure the authentication flow aligns with business requirements, below is the system sequence diagram illustrating the login and authorization process:
+<img width="2832" height="4756" alt="image" src="https://github.com/user-attachments/assets/8cc00df2-b2f3-4691-8b8c-f090df56bcd4" />
 
 ```mermaid
 sequenceDiagram
